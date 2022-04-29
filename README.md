@@ -1,4 +1,5 @@
 # SI507-final-project
+repo link: https://github.com/sherryxj1104/SI507-final-project
 This is a final Project for SI507, a python class. The whole project is about finding hotels and restaurants at the place where you want to go.  
 
 # How to play with program
@@ -9,3 +10,7 @@ I've already add the API key in the code. So, users can run the code on their ow
 
 # Python packages
 I use requests to require the access from API. And use JSON module to read the JSON file. 
+
+# Demo Video
+Link: https://youtu.be/TaBGjH80jCA
+If this link does not work, please check the GiyHub repo, there is a file called SI507 - demo.mp4. It is the same video with the link. 
